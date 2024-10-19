@@ -6,7 +6,7 @@ public class SlotMachine {
 
     static Random gen = new Random();
     static Scanner input = new Scanner(System.in);
-    private static final int N = 10;
+    private static final int N = 9;
 
 
     public static void main(String[] args){
